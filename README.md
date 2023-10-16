@@ -5,7 +5,5 @@
  <summary>Homework 1</summary>
  <p>TODO (...)</p>
 </details>  
-
-
-Markup : [text goes here](#section_name)
-          section_title<a name="section_name"></a>    
+(#section_name)
+section_title<a name="section_name"></a>    
