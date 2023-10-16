@@ -3,5 +3,5 @@
 # Homeworks 😀
 <details>
  <summary>Homework 1</summary>
- <p>TBA (...)</p>
+ <p>TODO (...)</p>
 </details>  
