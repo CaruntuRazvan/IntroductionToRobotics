@@ -7,9 +7,9 @@ Introduction to Robotics Laboratory Homework is an integral part of the 3rd-year
   <p>
     Components Used:
     <ul>
-      <li>Compone 1</li>
-      <li>Componenta 2</li>
-      <li>Componenta 3</li>
+      <li>1 RGB LED</li>
+      <li>3 potentiometers</li>
+      <li>wires and resistors</li>
     </ul>
   </p>
 </details>  
