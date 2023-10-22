@@ -6,6 +6,11 @@ Introduction to Robotics Laboratory Homework is an integral part of the 3rd-year
   <p>Task requirements: Control each channel (red, green, and blue) of an RGB led using three separate potentiometers.This control is achieved using digital electronics, where the Arduino reads the potentiometer values and then sends mapped values to control each of the pins linked to the LED.  </p>
   <p>
     Components Used:
+    <ul>
+      <li>Compone 1</li>
+      <li>Componenta 2</li>
+      <li>Componenta 3</li>
+    </ul>
   </p>
 </details>  
 
