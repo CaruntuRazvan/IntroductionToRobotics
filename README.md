@@ -12,6 +12,6 @@ Introduction to Robotics Laboratory Homework is an integral part of the 3rd-year
       <li>wires and resistors</li>
     </ul>
   </p>
-  <p>Setup photo:</p>
+  <p><strong>Setup photo:</strong></p>
 </details>  
 
