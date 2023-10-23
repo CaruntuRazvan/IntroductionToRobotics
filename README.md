@@ -13,6 +13,6 @@ Introduction to Robotics Laboratory Homework is an integral part of the 3rd-year
     </ul>
   </p>
   <p><strong>Setup photo:</strong></p>
-  <p>![poza_tema1](https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/1606c25a-7853-4179-9e70-0d444f407edc)</p>
+  <p>[poza_tema1](https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/1606c25a-7853-4179-9e70-0d444f407edc)</p>
 </details>  
 
