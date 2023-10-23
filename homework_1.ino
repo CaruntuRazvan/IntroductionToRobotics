@@ -17,7 +17,7 @@ unsigned int redPinValue = 0;
 const int minPot = 0;
 const int maxPot = 1023;
 const int minLed = 0;
-const int minMax = 255;
+const int maxLed = 255;
 
 void setup() {
   pinMode(redPotPin, INPUT);
@@ -37,9 +37,9 @@ void loop() {
   redPotValue = analogRead(redPotPin); 
 
   //calculare valoare analog pentru led
-  greenPinValue = map(greenPotValue, minPot, maxPot, minLed, minMax);
-  bluePinValue = map(bluePotValue, minPot, maxPot, minLed, minMax);
-  redPinValue = map(redPotValue, minPot, maxPot, minLed, minMax);
+  greenPinValue = map(greenPotValue, minPot, maxPot, minLed, maxLed);
+  bluePinValue = map(bluePotValue, minPot, maxPot, minLed, maxLed);
+  redPinValue = map(redPotValue, minPot, maxPot, minLed, maxLed);
 
   analogWrite(redLedPin, redPinValue); 
   analogWrite(greenLedPin, greenPinValue);
