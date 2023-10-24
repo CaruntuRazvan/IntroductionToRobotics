@@ -9,7 +9,7 @@ Introduction to Robotics Laboratory Homework is an integral part of the 3rd-year
     <ul>
       <li>1 RGB LED</li>
       <li>3 potentiometers</li>
-      <li>wires and resistors</li>
+      <li>wires and 3 resistors of 330Ω </li>
     </ul>
   </p>
   <p><strong>Setup photo:</strong></p>
