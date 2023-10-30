@@ -28,7 +28,7 @@ The system also incorporates 3 buttons that simulate the call buttons from the 3
       <li>4 LEDs</li>
       <li>3 buttons</li>
       <li>a buzzer</li>
-      <li>wires and 5 resistors (4 of 330 Ω for every LED and 1 of 100 Ω for buzzer)</li>
+      <li>wires and 5 resistors (4 with a resistance of 330 Ω, one for each LED, and 1 with a resistance of 100 Ω for the buzzer)</li>
     </ul>
   </p>
   <p><strong>Setup photo:</strong></p>
