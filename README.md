@@ -17,4 +17,20 @@ Introduction to Robotics Laboratory Homework is an integral part of the 3rd-year
   <p><strong>Functionality:</strong> <a href="https://www.youtube.com/shorts/vQ07wmHCx5U" target="_blank">Link video</a></p>
 </details>  
 
+<details>
+  <summary><h3>Homework 2: Elevator simulator wannabe</h3></summary>
+  <p><strong>Task requirements:</strong> Control each channel (red, green, and blue) of an RGB LED using three separate potentiometers.This control is achieved using digital electronics, where the Arduino reads the potentiometer values and then sends mapped values to control each of the pins linked to the LED.  </p>
+  <p>
+    <strong>Components Used:</strong>
+    <ul>
+      <li>4 RGB LED</li>
+      <li>3 potentiometers</li>
+      <li>wires and 5 resistors (4 of 330 Ω and 1 of </li>
+    </ul>
+  </p>
+  <p><strong>Setup photo:</strong></p>
+  <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/43815df3-0206-4cf7-b8d2-8b59947a3d6e" alt="Text alternativ al imaginii" height="600" width="600"></p>
+  <p><strong>Functionality:</strong> <a href="https://www.youtube.com/shorts/vQ07wmHCx5U" target="_blank">Link video</a></p>
+</details>  
+
 
