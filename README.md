@@ -32,7 +32,7 @@ The system also incorporates 3 buttons that simulate the call buttons from the 3
     </ul>
   </p>
   <p><strong>Setup photo:</strong></p>
-  <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/43815df3-0206-4cf7-b8d2-8b59947a3d6e" alt="Text alternativ al imaginii" height="600" width="600"></p>
+  <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/1b553a53-0c07-4b15-a1a8-0034dfcd55e9" alt="Text alternativ al imaginii" height="600" width="600"></p>
   <p><strong>Functionality:</strong> <a href="https://www.youtube.com/shorts/vQ07wmHCx5U" target="_blank">Link video</a></p>
 </details>  
 
