@@ -24,6 +24,11 @@ bool button2Pressed = false;
 bool button3Pressed = false;
 unsigned long buttonPressStartTime = 0;
 
+const int soundMovingFrequency = 500;
+const int soundMovingDuration = 7000;
+const int soundArrivalFrequency = 4000;
+const int soundArrivalDuration = 200;
+
 void setup() {  
   pinMode(elevatorLed, OUTPUT);
   pinMode(floorLed1, OUTPUT);
@@ -101,9 +106,9 @@ void updateFloorLeds(int floor) {
 }
 
 void soundMoving() {
-  tone(buzzerPin, 500, 7000);
+  tone(buzzerPin, soundMovingFrequency, soundMovingDuration);
 }
 
 void soundArrival() {
-  tone(buzzerPin, 4000, 200);
+  tone(buzzerPin, soundArrivalFrequency, soundArrivalDuration);
 }
