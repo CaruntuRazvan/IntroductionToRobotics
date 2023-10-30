@@ -20,8 +20,7 @@ Introduction to Robotics Laboratory Homework is an integral part of the 3rd-year
 <details>
   <summary><h3>Homework 2: Elevator simulator wannabe</h3></summary>
   <p><strong>Task requirements:</strong> This project involves creating a simulation of a 3-floor elevator control system using LEDs, buttons, and an Arduino buzzer. Each of the 3 LEDs is meant to correspond to one of the 3 floors, with the LED representing the current floor illuminating. Additionally, another LED signifies the elevator's operational status. It will blink while the elevator is in motion and remain steady when it is stationary.
-
-The system also incorporates 3 buttons that simulate the call buttons from the 3 different floors. When one of these buttons is pressed, the elevator should simulate movement towards that floor after a brief delay of around 2-3 seconds. Furthermore, the buzzer should produce brief sounds in the following situations: when the elevator arrives at the desired floor (similar to a "cling" sound) and during the elevator doors closing and movement (preferably with two distinct sounds).  </p>
+The system also incorporates 3 buttons that simulate the call buttons from the 3 different floors. When one of these buttons is pressed, the elevator should simulate movement towards that floor after a brief delay of around 2-3 seconds. Furthermore, the buzzer should produce brief sounds in the following situations: when the elevator arrives at the desired floor (similar to a "cling" sound) and during the elevator doors closing and movement. </p>
   <p>
     <strong>Components Used:</strong>
     <ul>
