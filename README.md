@@ -48,10 +48,10 @@ The system also incorporates 3 buttons that simulate the call buttons from the 3
       <li>wires and 8 resistors (with a resistance of 220Ω or 330Ω)</li>
     </ul>
   </p>
-  <p><strong>Neighbors for 7-Segment Display</strong></p>
-  <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/33d34a42-cab1-40c3-8227-3751b44228ab" alt="Text alternativ al imaginii" height="600" width="600"></p>
+  <p><strong>Neighbors for 7-Segment Display:</strong></p>
+  <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/33d34a42-cab1-40c3-8227-3751b44228ab" alt="Text alternativ al imaginii" height="400" width="400"></p>
   <p><strong>Setup photo:</strong></p>
-  <p><img src="" alt="Text alternativ al imaginii" height="400" width="300"></p>
+  <p><img src="" alt="Text alternativ al imaginii" height="600" width="600"></p>
   <p><strong>Functionality:</strong> <a href="https://www.youtube.com/shorts/MaEhQ8o4Uqs" target="_blank">Link video</a></p>
 </details>  
 
