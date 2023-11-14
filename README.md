@@ -55,4 +55,24 @@ The system also incorporates 3 buttons that simulate the call buttons from the 3
   <p><strong>Functionality:</strong> <a href="https://www.youtube.com/shorts/ypRhZ_DGU2k" target="_blank">Link video</a></p>
 </details>  
 
+<details>
+  <summary><h3>Homework 4: Stopwatch Timer</h3></summary>
+  <p><strong>Task requirements:</strong> This project uses the joystick to control the segment's position and simulate "drawing" on the display. The transitions between segments should be natural, allowing them to move from their current positions to neighboring ones without passing through any "walls." The initial position should be set on the decimal point (DP). The current position will always blink, regardless of whether the segment is turned on or off. The user can use the joystick to navigate to neighboring positions, as described in the accompanying table for movement directions. A short press of the button will toggle the segment's state from ON to OFF or from OFF to ON. A long press of the button will reset the entire display by turning off all segments and relocating the current position to the decimal point.
+ </p>
+  <p>
+    <strong>Components Used:</strong>
+    <ul>
+      <li>a 4 digit 7-segment display</li>
+      <li>a 74hc595 shiftregister</li>
+      <li>3 buttons</li>
+      <li>wires and 7 resistors (with a resistance of 220Ω or 330Ω)</li>
+    </ul>
+  </p>
+  <p><strong>Neighbors for 7-Segment Display:</strong></p>
+  <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/33d34a42-cab1-40c3-8227-3751b44228ab" alt="Text alternativ al imaginii" height="175" width="335"></p>
+  <p><strong>Setup photo:</strong></p>
+  <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/70781c11-078a-48a2-b27e-325d916abf1c" alt="Text alternativ al imaginii" height="600" width="600"></p>
+  <p><strong>Functionality:</strong> <a href="https://www.youtube.com/shorts/ypRhZ_DGU2k" target="_blank">Link video</a></p>
+</details>  
+
 
