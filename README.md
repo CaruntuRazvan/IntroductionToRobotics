@@ -64,12 +64,20 @@ The system also incorporates 3 buttons that simulate the call buttons from the 3
   <p>
     <strong>Components Used:</strong>
     <ul>
-      <li>a 4 digit 7-segment display</li>
-      <li>a 74hc595 shiftregister</li>
-      <li>3 buttons</li>
+      <li>a 4-digit 7-segment display</li>
+      <li>a 74HC595 shift register</li>
+      <li>
+        3 buttons:
+        <ul>
+          <li>Button 1</li>
+          <li>Button 2</li>
+          <li>Button 3</li>
+        </ul>
+      </li>
       <li>wires and 7 resistors (with a resistance of 220Ω or 330Ω)</li>
     </ul>
-  </p>
+</p>
+
   <p><strong>Electronic scheme:</strong></p>
   <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/33d34a42-cab1-40c3-8227-3751b44228ab" alt="Text alternativ al imaginii" height="175" width="335"></p>
   <p><strong>Setup photo:</strong></p>
