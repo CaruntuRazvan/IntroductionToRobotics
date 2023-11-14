@@ -81,7 +81,7 @@ The system also incorporates 3 buttons that simulate the call buttons from the 3
   <p><strong>Electronic scheme:</strong></p>
   <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/ed013c77-6727-482a-bb8d-2f9a1ba46fbb" alt="Text alternativ al imaginii" height="500" width="500"></p>
   <p><strong>Setup photo:</strong></p>
-  <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/70781c11-078a-48a2-b27e-325d916abf1c" alt="Text alternativ al imaginii" height="600" width="600"></p>
+  <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/620f6c3a-2820-4d89-9c4c-da82e26aab5a" alt="Text alternativ al imaginii" height="600" width="600"></p>
   <p><strong>Functionality:</strong> <a href="https://www.youtube.com/shorts/ypRhZ_DGU2k" target="_blank">Link video</a></p>
 </details>  
 
