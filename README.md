@@ -57,9 +57,9 @@ The system also incorporates 3 buttons that simulate the call buttons from the 3
 
 <details>
   <summary><h3>Homework 4: Stopwatch Timer</h3></summary>
-  <p><strong>Task requirements:</strong> In this project, the goal is to create a stopwatch timer using a 4-digit 7-segment display and 3 buttons. The timer should measure in 10ths of a second and include a save lap function, akin to basic stopwatch features commonly found on phones. The initial display shows "000.0". Initiating the timer occurs upon pressing the Start button. While the timer is running, pressing the lap button stores the current timer value in memory, allowing for up to 4 laps to be saved. The 5th press overrides the initial saved lap. Resetting the timer with the reset button has no effect during operation.
+  <p><strong>Task requirements:</strong> In this project, the goal is to create a stopwatch timer using a 4-digit 7-segment display and 3 buttons. The timer should measure in 10ths of a second and include a save lap function. The initial display shows "000.0". Initiating the timer occurs upon pressing the Start button. While the timer is running, pressing the lap button stores the current timer value in memory, allowing for up to 4 laps to be saved.Resetting the timer with the reset button has no effect during operation.
 
-If the pause button is pressed, the timer halts, and the lap flag button becomes inactive in Pause Mode. Pressing the reset button brings the timer back to "000.0". Post-reset, the flag buttons can be used to cycle through the saved lap times. Each press navigates to the next saved lap, with continuous pressing allowing for seamless cycling. Resetting in this state clears all flags and returns the timer display to "000.0".
+  If the pause button is pressed, the timer halts, and the lap flag button becomes inactive in Pause Mode. Pressing the reset button brings the timer back to "000.0". Post-reset, the flag buttons can be used to cycle through the saved lap times. Each press navigates to the next saved lap, with continuous pressing allowing for seamless cycling. Resetting in this state clears all flags and returns the timer display to "000.0".
  </p>
   <p>
     <strong>Components Used:</strong>
