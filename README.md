@@ -57,7 +57,9 @@ The system also incorporates 3 buttons that simulate the call buttons from the 3
 
 <details>
   <summary><h3>Homework 4: Stopwatch Timer</h3></summary>
-  <p><strong>Task requirements:</strong> This project uses the joystick to control the segment's position and simulate "drawing" on the display. The transitions between segments should be natural, allowing them to move from their current positions to neighboring ones without passing through any "walls." The initial position should be set on the decimal point (DP). The current position will always blink, regardless of whether the segment is turned on or off. The user can use the joystick to navigate to neighboring positions, as described in the accompanying table for movement directions. A short press of the button will toggle the segment's state from ON to OFF or from OFF to ON. A long press of the button will reset the entire display by turning off all segments and relocating the current position to the decimal point.
+  <p><strong>Task requirements:</strong> In this project, the goal is to create a stopwatch timer using a 4-digit 7-segment display and 3 buttons. The timer should measure in 10ths of a second and include a save lap function, akin to basic stopwatch features commonly found on phones. The initial display shows "000.0". Initiating the timer occurs upon pressing the Start button. While the timer is running, pressing the lap button stores the current timer value in memory, allowing for up to 4 laps to be saved. The 5th press overrides the initial saved lap. Resetting the timer with the reset button has no effect during operation.
+
+If the pause button is pressed, the timer halts, and the lap flag button becomes inactive in Pause Mode. Pressing the reset button brings the timer back to "000.0". Post-reset, the flag buttons can be used to cycle through the saved lap times. Each press navigates to the next saved lap, with continuous pressing allowing for seamless cycling. Resetting in this state clears all flags and returns the timer display to "000.0".
  </p>
   <p>
     <strong>Components Used:</strong>
@@ -68,7 +70,7 @@ The system also incorporates 3 buttons that simulate the call buttons from the 3
       <li>wires and 7 resistors (with a resistance of 220Ω or 330Ω)</li>
     </ul>
   </p>
-  <p><strong>Neighbors for 7-Segment Display:</strong></p>
+  <p><strong>Electronic scheme:</strong></p>
   <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/33d34a42-cab1-40c3-8227-3751b44228ab" alt="Text alternativ al imaginii" height="175" width="335"></p>
   <p><strong>Setup photo:</strong></p>
   <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/70781c11-078a-48a2-b27e-325d916abf1c" alt="Text alternativ al imaginii" height="600" width="600"></p>
