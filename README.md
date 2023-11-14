@@ -69,7 +69,7 @@ The system also incorporates 3 buttons that simulate the call buttons from the 3
       <li>
         3 buttons:
         <ul>
-          <li>Start/Stop Button - </li>
+          <li>Start or Stop Button  </li>
           <li>Reset Button - reset (when in pause mode) / clear saved laps (when in lap-viewing mode). </li>
           <li>Lap Button - save a lap (if in counting mode) and navigate through the last saved laps.</li>
         </ul>
