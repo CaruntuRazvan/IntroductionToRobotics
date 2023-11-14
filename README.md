@@ -69,9 +69,9 @@ The system also incorporates 3 buttons that simulate the call buttons from the 3
       <li>
         3 buttons:
         <ul>
-          <li>Button 1</li>
-          <li>Button 2</li>
-          <li>Button 3</li>
+          <li>Start/Stop Button - </li>
+          <li>Reset Button - reset (when in pause mode) / clear saved laps (when in lap-viewing mode). </li>
+          <li>Lap Button - save a lap (if in counting mode) and navigate through the last saved laps.</li>
         </ul>
       </li>
       <li>wires and 7 resistors (with a resistance of 220Ω or 330Ω)</li>
