@@ -93,8 +93,8 @@ If the pause button is pressed, the timer halts, and the lap flag button becomes
     <strong>Components Used:</strong>
     <ul>
       <li>RGB LED</li>
-      <li>Ultrasonic Sensor (HC-SR04)</li>
-      <li>Photocell/LDR (Light-Dependent Resistor)</li>
+      <li>ultrasonic sensor (HC-SR04)</li>
+      <li>photocell/LDR (Light-Dependent Resistor)</li>
       <li>wires and 4 resistors (3 with a resistance of 330 Ω for the RGB LED and 1 with a resistance of 10 kΩ for the photocell)</li>
     </ul>
 </p>
