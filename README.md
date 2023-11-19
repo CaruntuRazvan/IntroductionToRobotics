@@ -104,7 +104,7 @@ The system also incorporates 3 buttons that simulate the call buttons from the 3
           <li>Lap Button - save a lap (if in counting mode) and navigate through the last saved laps.</li>
         </ul>
       </li>
-      <li>wires and 7 resistors (with a resistance of 220Ω or 330Ω)</li>
+      <li>wires and 4 resistors (with a resistance of 220Ω or 330Ω)</li>
     </ul>
 </p>
 
