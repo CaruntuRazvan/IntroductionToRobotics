@@ -57,9 +57,9 @@ The system also incorporates 3 buttons that simulate the call buttons from the 3
 
 <details>
   <summary><h3>Homework 4: Stopwatch Timer</h3></summary>
-  <p><strong>Task requirements:</strong> In this project, the goal is to create a stopwatch timer using a 4-digit 7-segment display and 3 buttons. The timer should measure in 10ths of a second and include a save lap function. The initial display shows "000.0". Initiating the timer occurs upon pressing the Start/Stop button. While the timer is running, pressing the lap button stores the current timer value in memory, allowing for up to 4 laps to be saved.Resetting the timer with the reset button has no effect during counting.
+  <p><strong>Task requirements:</strong> In this project, the goal is to create a stopwatch timer using a 4-digit 7-segment display and 3 buttons. The timer should measure in 10ths of a second and include a save lap function. The initial display shows "000.0". Initiating the timer occurs upon pressing the Start/Stop button. While the timer is running, pressing the lap button stores the current timer value in memory, allowing for up to 4 laps to be saved.Resetting the timer with the reset button has no effect on counting.
 
-  If the pause button is pressed, the timer halts, and the lap flag button becomes inactive in Pause Mode.Pressing the reset button restores the timer to "000.0". Following a reset, the flag buttons can be utilized to sequentially navigate through the saved lap times. Each button press transitions to the next saved lap, and continuous pressing facilitates a seamless cycling experience. Resetting in this state clears all flags and reverts the timer display to "000.0". 
+If the pause button is pressed, the timer halts, and the lap flag button becomes inactive in Pause Mode.Pressing the reset button restores the timer to "000.0". Following a reset, the flag buttons can be utilized to sequentially navigate through the saved lap times. Each button press transitions to the next saved lap, and continuous pressing facilitates a seamless cycling experience. Resetting in this state clears all flags and reverts the timer display to "000.0". 
  </p>
   <p>
     <strong>Components Used:</strong>
@@ -70,8 +70,8 @@ The system also incorporates 3 buttons that simulate the call buttons from the 3
         3 buttons:
         <ul>
           <li>Start or Stop Button  </li>
-          <li>Reset Button - reset (when in pause mode) / clear saved laps (when in lap-viewing mode). </li>
-          <li>Lap Button - save a lap (if in counting mode) and navigate through the last saved laps.</li>
+<li>Reset Button: reset (when in pause mode) or clear saved laps (when in lap-viewing mode). </li>
+<li>Lap Button: save a lap (if in counting mode) and navigate through the last saved laps.</li>
         </ul>
       </li>
       <li>wires and 7 resistors (with a resistance of 220Ω or 330Ω)</li>
@@ -95,12 +95,12 @@ The system also incorporates 3 buttons that simulate the call buttons from the 3
       <li>RGB LED</li>
       <li>Ultrasonic Sensor (HC-SR04)</li>
       <li>Photocell/LDR (Light-Dependent Resistor)</li>
-      <li>wires and 4 resistors (3 with a resistance of 330 Ω for RGB LED and 1 with a resistance of 10 kΩ for the photocell)</li>
+      <li>wires and 4 resistors (3 with a resistance of 330 Ω for the RGB LED and 1 with a resistance of 10 kΩ for the photocell)</li>
     </ul>
 </p>
 
   <p><strong>Electronic scheme:</strong></p>
-  <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/69defde9-5740-46c9-ac5e-bfa1e54f26e5" alt="Text alternativ al imaginii" height="450" width="650"></p>
+  <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/69defde9-5740-46c9-ac5e-bfa1e54f26e5" alt="Text alternativ al imaginii" height="450" width="600"></p>
   <p><strong>Setup photo:</strong></p>
   <p><img src="" alt="Text alternativ al imaginii" height="600" width="600"></p>
   <p><strong>Functionality:</strong> <a href="https://www.youtube.com/shorts/zXETFUREEnk" target="_blank">Link video</a></p>
