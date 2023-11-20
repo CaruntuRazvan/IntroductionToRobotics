@@ -90,7 +90,9 @@ If the pause button is pressed, the timer halts, and the lap flag button becomes
   <p><strong>Task requirements:</strong> In this project, the goal is to create a "Smart Environment Monitor and Logger" using Arduino, incorporating a range of sensors to collect environmental data. The system will store this data in EEPROM, offering visual feedback through an RGB LED, and enabling user interaction via a Serial Menu. The project emphasizes the integration of sensor readings, memory management, Serial Communication, and the overarching goal of constructing a user-friendly menu system. 
  </p>
   <p><strong>Menu structure:</strong>
-   <ul>
+    <ul>
+        <li><strong>1. Sensor Settings</strong>
+            <ul>
                 <li>1.1 Sensors Sampling Interval. Set the sampling rate for the sensors between 1 and 10 seconds.</li>
                 <li>1.2 Ultrasonic Alert Threshold. Set the threshold value for the ultrasonic sensor to trigger an alert.</li>
                 <li>1.3 LDR Alert Threshold. Set the threshold value for the LDR sensor to trigger an alert.</li>
@@ -121,7 +123,8 @@ If the pause button is pressed, the timer halts, and the lap flag button becomes
                 <li>4.3 Back. Return to the main menu.</li>
             </ul>
         </li>
-    </ul>
+    </ul> 
+   
   </p>
   <p>
     <strong>Components Used:</strong>
