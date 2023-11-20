@@ -90,34 +90,35 @@ If the pause button is pressed, the timer halts, and the lap flag button becomes
   <p><strong>Task requirements:</strong> In this project, the goal is to create a "Smart Environment Monitor and Logger" using Arduino, incorporating a range of sensors to collect environmental data. The system will store this data in EEPROM, offering visual feedback through an RGB LED, and enabling user interaction via a Serial Menu. The project emphasizes the integration of sensor readings, memory management, Serial Communication, and the overarching goal of constructing a user-friendly menu system. 
  </p>
   <p><strong>Menu structure:</strong>
-  <ul>
-        <li><strong>1. Sensor Settings</strong>
-            <ul>
-                <li>1.1 Sensors Sampling Interval</li>
-                <li>1.2 Ultrasonic Alert Threshold</li>
-                <li>1.3 LDR Alert Threshold</li>
-                <li>1.4 Back</li>
+   <ul>
+                <li>1.1 Sensors Sampling Interval. Set the sampling rate for the sensors between 1 and 10 seconds.</li>
+                <li>1.2 Ultrasonic Alert Threshold. Set the threshold value for the ultrasonic sensor to trigger an alert.</li>
+                <li>1.3 LDR Alert Threshold. Set the threshold value for the LDR sensor to trigger an alert.</li>
+                <li>1.4 Back. Return to the main menu.</li>
             </ul>
         </li>
+
         <li><strong>2. Reset Logger Data</strong>
             <ul>
-                <li>2.1 Yes</li>
-                <li>2.2 No</li>
+                <li>2.1 Yes. Confirm to delete all data.</li>
+                <li>2.2 No. Cancel the reset operation.</li>
             </ul>
         </li>
+
         <li><strong>3. System Status</strong>
             <ul>
-                <li>3.1 Current Sensor Readings</li>
-                <li>3.2 Current Sensor Settings</li>
-                <li>3.3 Display Logged Data</li>
-                <li>3.4 Back</li>
+                <li>3.1 Current Sensor Readings. Continuously print sensor readings at the set sampling rate.</li>
+                <li>3.2 Current Sensor Settings. Display the sampling rate and threshold value for all sensors.</li>
+                <li>3.3 Display Logged Data. Display the last 10 sensor readings for all sensors.</li>
+                <li>3.4 Back. Return to the main menu.</li>
             </ul>
         </li>
+
         <li><strong>4. RGB LED Control</strong>
             <ul>
-                <li>4.1 Manual Color Control</li>
-                <li>4.2 LED: Toggle Automatic ON/OFF</li>
-                <li>4.3 Back</li>
+                <li>4.1 Manual Color Control. Set the RGB colors manually.</li>
+                <li>4.2 LED: Toggle Automatic ON/OFF. Toggle automatic mode for the LED.</li>
+                <li>4.3 Back. Return to the main menu.</li>
             </ul>
         </li>
     </ul>
