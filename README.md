@@ -115,7 +115,7 @@ If the pause button is pressed, the timer halts, and the lap flag button becomes
         </li>
         <li><strong>4. RGB LED Control</strong>
             <ul>
-                <li>4.1 Manual Color Control.Set the RGB colors manually.</li>
+                <li>4.1 Manual Color Control.Set the RGB colors manually.(!doesn't work)</li>
                 <li>4.2 LED: Toggle Automatic ON/OFF.Toggle automatic mode for the LED.</li>
                 <li>4.3 Back</li>
             </ul>
