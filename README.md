@@ -87,7 +87,7 @@ If the pause button is pressed, the timer halts, and the lap flag button becomes
 
 <details>
   <summary><h3>Homework 5: Pseudo-Smart Environment Monitor and Logger</h3></summary>
-  <p><strong>Task requirements:</strong> 
+  <p><strong>Task requirements: In this project, the goal is to create a "Smart Environment Monitor and Logger" using Arduino, incorporating a range of sensors to collect environmental data. The system will store this data in EEPROM, offering visual feedback through an RGB LED, and enabling user interaction via a Serial Menu. The project emphasizes the integration of sensor readings, memory management, Serial Communication, and the overarching goal of constructing a user-friendly menu system.</strong> 
  </p>
   <p>
     <strong>Components Used:</strong>
