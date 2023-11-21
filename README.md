@@ -136,5 +136,5 @@ If the pause button is pressed, the timer halts, and the lap flag button becomes
   <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/154a62d7-60ec-41f0-b9c6-9725d720f1b5" alt="Text alternativ al imaginii" height="450" width="500"></p>
   <p><strong>Setup photo:</strong></p>
   <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/f8b6b372-7568-439c-8282-d6f3afb0e413" alt="Text alternativ al imaginii" height="600" width="600"></p>
-  <p><strong>Functionality:</strong> <a href="https://www.youtube.com/shorts/zXETFUREEnk" target="_blank">Link video</a></p>
+  <p><strong>Functionality:</strong> <a href="https://www.youtube.com/watch?v=IK2Oxy2TLSA" target="_blank">Link video</a></p>
 </details>  
