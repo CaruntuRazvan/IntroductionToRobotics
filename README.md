@@ -137,4 +137,23 @@ If the pause button is pressed, the timer halts, and the lap flag button becomes
   <p><strong>Setup photo:</strong></p>
   <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/f8b6b372-7568-439c-8282-d6f3afb0e413" alt="Text alternativ al imaginii" height="600" width="600"></p>
   <p><strong>Functionality:</strong> <a href="https://www.youtube.com/watch?v=IK2Oxy2TLSA" target="_blank">Link video</a></p>
+</details>
+
+<details>
+  <summary><h3>Homework 6: Mini Matrix Game</h3></summary>
+  <p><strong>Task requirements:</strong> 
+ </p>
+  <p>
+    <strong>Components Used:</strong>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li>wires and 2 resistors (and 1 with a resistance of 330Ω for the red LED)</li>
+    </ul>
+</p>
+
+  <p><strong>Setup photo:</strong></p>
+  <p><img src="" alt="Text alternativ al imaginii" height="600" width="600"></p>
+  <p><strong>Functionality:</strong> <a href="" target="_blank">Link video</a></p>
 </details>  
