@@ -141,7 +141,7 @@ If the pause button is pressed, the timer halts, and the lap flag button becomes
 
 <details>
   <summary><h3>Homework 6: Mini Matrix Game</h3></summary>
-  <p><strong>Task requirements:</strong> 
+  <p><strong>Task requirements:</strong> The purpose of this homework is to develop a concise game employing an 8x8 matrix with a minimum of three distinct elements: a player (displaying a slow blinking animation), bombs/bullets (exhibiting rapid blinking), and walls (remaining static without any blinking). The primary objective of this project is to establish a foundation for matrix-based gaming. The game design involves the random generation of walls covering 50% to 75% of the matrix, with players tasked to navigate the matrix, strategically destroying walls.
  </p>
   <p>
     <strong>Components Used:</strong>
