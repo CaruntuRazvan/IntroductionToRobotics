@@ -187,7 +187,7 @@ If the pause button is pressed, the timer halts, and the lap flag button becomes
       <li>one LCD 2x16</li>
       <li>8x8 LED Matrix</li>
       <li>a MAX7219 driver</li>
-      <li>1 LED</li>
+      <li>one LED</li>
       <li>wires and 2 resistors (1 with a resistance of 100 kΩ and 1 with a resistance of 330Ω for the red LED)</li>
     </ul>
 </p>
