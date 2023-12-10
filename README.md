@@ -160,3 +160,26 @@ If the pause button is pressed, the timer halts, and the lap flag button becomes
   <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/992f92c4-4130-402c-8105-2b0b573f8d7c" alt="Text alternativ al imaginii" height="600" width="600"></p>
   <p><strong>Functionality:</strong> <a href="https://www.youtube.com/watch?v=Ked8ob7sgOE" target="_blank">Link video</a></p>
 </details>  
+<details>
+  <summary><h3>Homework 6: Mini Matrix Game Checkpoint</h3></summary>
+  <p><strong>Task requirements:</strong> The purpose of this homework is to develop a concise game employing an 8x8 matrix with a minimum of three distinct elements: a player (displaying a slow blinking animation), bombs/bullets (exhibiting rapid blinking), and walls (remaining static without any blinking). The primary objective of this project is to establish a foundation for matrix-based gaming. The game design involves the random generation of walls covering 50% to 75% of the matrix, with players tasked to navigate the matrix, strategically destroying walls.
+ </p>
+  <p><strong>My game:</strong> In this assignment, I attempted to create a game similar to Bomberman, but without opponents and additional levels. The player's objective is to destroy all randomly generated walls on the map by strategically placing bombs nearby. If the player successfully eliminates all the walls, a corresponding animation will be displayed. However, if the player is in the vicinity of a bomb when it explodes, the player will die, accompanied by another relevant animation. Additionally, I incorporated a red LED that starts blinking when the player places a bomb.
+ </p>
+  
+  <p>
+    <strong>Components Used:</strong>
+    <ul>
+      <li>one joystick</li>
+      <li>one LCD 2x16</li>
+      <li>8x8 LED Matrix</li>
+      <li>a MAX7219 driver</li>
+      <li>1 LED</li>
+      <li>wires and 2 resistors (1 with a resistance of 100 kΩ and 1 with a resistance of 330Ω for the red LED)</li>
+    </ul>
+</p>
+
+  <p><strong>Setup photo:</strong></p>
+  <p><img src="" alt="Text alternativ al imaginii" height="600" width="600"></p>
+  <p><strong>Functionality:</strong> <a href="" target="_blank">Link video</a></p>
+</details> 
