@@ -161,7 +161,7 @@ If the pause button is pressed, the timer halts, and the lap flag button becomes
   <p><strong>Functionality:</strong> <a href="https://www.youtube.com/watch?v=Ked8ob7sgOE" target="_blank">Link video</a></p>
 </details>  
 <details>
-  <summary><h3>Homework 6: Mini Matrix Game Checkpoint</h3></summary>
+  <summary><h3>Homework 7: Mini Matrix Game Checkpoint</h3></summary>
   <p><strong>Task requirements:</strong> The purpose of this homework is to develop a concise game employing an 8x8 matrix with a minimum of three distinct elements: a player (displaying a slow blinking animation), bombs/bullets (exhibiting rapid blinking), and walls (remaining static without any blinking). The primary objective of this project is to establish a foundation for matrix-based gaming. The game design involves the random generation of walls covering 50% to 75% of the matrix, with players tasked to navigate the matrix, strategically destroying walls.
  </p>
   <p><strong>My game:</strong> In this assignment, I attempted to create a game similar to Bomberman, but without opponents and additional levels. The player's objective is to destroy all randomly generated walls on the map by strategically placing bombs nearby. If the player successfully eliminates all the walls, a corresponding animation will be displayed. However, if the player is in the vicinity of a bomb when it explodes, the player will die, accompanied by another relevant animation. Additionally, I incorporated a red LED that starts blinking when the player places a bomb.
