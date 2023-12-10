@@ -166,7 +166,20 @@ If the pause button is pressed, the timer halts, and the lap flag button becomes
  </p>
   <p><strong>My game:</strong> In this assignment, I attempted to create a game similar to Bomberman, but without opponents and additional levels. The player's objective is to destroy all randomly generated walls on the map by strategically placing bombs nearby. If the player successfully eliminates all the walls, a corresponding animation will be displayed. However, if the player is in the vicinity of a bomb when it explodes, the player will die, accompanied by another relevant animation. Additionally, I incorporated a red LED that starts blinking when the player places a bomb.
  </p>
-  
+    <p><strong>Menu structure:</strong>
+  <ul>
+        <li><strong>1. Start game</strong>
+        </li>
+        <li><strong>2. Settings</strong>
+            <ul>
+                <li>2.1 LCD  brightness  control</li>
+                <li>2.2 Matrix brightness control </li>
+            </ul>
+        </li>
+        <li><strong>3. About (details about creator)</strong>
+        </li>
+  </ul>  
+  </p>
   <p>
     <strong>Components Used:</strong>
     <ul>
