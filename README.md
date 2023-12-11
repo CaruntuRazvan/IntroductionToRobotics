@@ -176,7 +176,7 @@ If the pause button is pressed, the timer halts, and the lap flag button becomes
                 <li>2.2 Matrix brightness control </li>
             </ul>
         </li>
-        <li><strong>3. About (details about creator)</strong>
+        <li><strong>3. About</strong> (details about creator)
         </li>
   </ul>  
   </p>
