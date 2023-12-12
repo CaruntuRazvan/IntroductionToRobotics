@@ -162,7 +162,7 @@ If the pause button is pressed, the timer halts, and the lap flag button becomes
 </details>  
 <details>
   <summary><h3>Homework 7: Mini Matrix Game Checkpoint</h3></summary>
-  <p><strong>Task requirements:</strong> The purpose of this homework is to add an intro message and a menu and for the LCD for the previous homework.
+  <p><strong>Task requirements:</strong> The purpose of this homework is to add an intro message and a menu for the LCD for the previous homework.
  </p>
   <p><strong>My game:</strong> In my game, I have a menu implemented for the LCD, consisting of: "Start Game" where the actual game begins; "Settings" which is divided into LCD brightness and matrix brightness, where I can adjust the matrix and LCD contrast by moving the joystick up and down; and "About" where I display the game name, my name, and my GitHub. When the game starts, I generate a static map where the side walls cannot be destroyed, and my player has 3 lives. The player can place a bomb by pressing the joystick, and the bomb will explode in the up, down, left, or right directions.I have an LED that blinks from the moment a bomb is placed until it explodes.The player can place a new bomb only after the previously placed bomb has exploded. If the player loses all lives during the game, they "die" and an animation and corresponding message will be displayed on the matrix and on the LCD. Similarly, if the player destroys all destructible walls, there will be a winning animation and a message. Pressing the joystick will return to the main menu.
  </p>
