@@ -162,7 +162,7 @@ If the pause button is pressed, the timer halts, and the lap flag button becomes
 </details>  
 <details>
   <summary><h3>Homework 7: Mini Matrix Game Checkpoint</h3></summary>
-  <p><strong>Task requirements:</strong> The purpose of this homework is to add a menu for LCD for the previous homework.
+  <p><strong>Task requirements:</strong> The purpose of this homework is to add an intro message and a menu and for the LCD for the previous homework.
  </p>
   <p><strong>My game:</strong> In this assignment, I attempted to create a game similar to Bomberman, but without opponents and additional levels. The player's objective is to destroy all randomly generated walls on the map by strategically placing bombs nearby. If the player successfully eliminates all the walls, a corresponding animation will be displayed. However, if the player is in the vicinity of a bomb when it explodes, the player will die, accompanied by another relevant animation. Additionally, I incorporated a red LED that starts blinking when the player places a bomb.
  </p>
