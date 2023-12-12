@@ -202,5 +202,5 @@ If the pause button is pressed, the timer halts, and the lap flag button becomes
 
   <p><strong>Setup photo:</strong></p>
   <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/78eecd5f-3c7e-4fbb-8889-a5bc45771274" alt="Text alternativ al imaginii" height="600" width="600"></p>
-  <p><strong>Functionality:</strong> <a href="" target="_blank">Link video</a></p>
+  <p><strong>Functionality:</strong> <a href="https://www.youtube.com/watch?v=GBHDTK8-MbY" target="_blank">Link video</a></p>
 </details> 
