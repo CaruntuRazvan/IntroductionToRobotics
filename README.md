@@ -143,7 +143,7 @@ If the pause button is pressed, the timer halts, and the lap flag button becomes
   <summary><h3>Homework 6: Mini Matrix Game</h3></summary>
   <p><strong>Task requirements:</strong> The purpose of this homework is to develop a concise game employing an 8x8 matrix with a minimum of three distinct elements: a player (displaying a slow blinking animation), bombs/bullets (exhibiting rapid blinking), and walls (remaining static without any blinking). The primary objective of this project is to establish a foundation for matrix-based gaming. The game design involves the random generation of walls covering 50% to 75% of the matrix, with players tasked to navigate the matrix, strategically destroying walls.
  </p>
-  <p><strong>My game:</strong> For my game  
+  <p><strong>My game:For my game, I generate a randomized map where 50% of the matrix are walls. The player can deploy a bomb by activating the joystick, causing the bomb to detonate in one of the cardinal directions (up, down, left, or right). Subsequent bomb placement is allowed only after the previously deployed bomb has exploded.Throughout the process, an LED continuously blinks from the moment a bomb is placed until its explosion. If the player is within the bomb's blast radius upon detonation, they "die," triggering an animation.Likewise, destroying all walls results in a victory animation, leading to a game restart.</strong>  
  </p>
   <p>
     <strong>Components Used:</strong>
@@ -164,13 +164,7 @@ If the pause button is pressed, the timer halts, and the lap flag button becomes
   <summary><h3>Homework 7: Mini Matrix Game Checkpoint</h3></summary>
   <p><strong>Task requirements:</strong> The purpose of this homework is to add an intro message and a menu and for the LCD for the previous homework.
  </p>
-  <p><strong>My game:</strong> In my game, I have a menu implemented for the LCD, consisting of: "Start Game," where the actual game begins; "Settings," which is divided into LCD brightness and matrix brightness, where I can adjust the matrix and LCD contrast by moving the joystick up and down; and "About," where I display the game name, my name, and my GitHub. When the game starts, I generate a static map where the side walls cannot be destroyed, and my player has 3 lives. The player can place a bomb by pressing the joystick, and the bomb will explode in the up, down, left, or right directions.I have an LED that blinks from the moment a bomb is placed until it explodes.The player can place a new bomb only after the previously placed bomb has exploded. If the player loses all lives during the game, they "die" and an animation and corresponding message will be displayed on the matrix. Similarly, if the player destroys all destructible walls, there will be a winning animation and a message. Pressing the joystick will return to the main menu.
-
-
-
-
-
-
+  <p><strong>My game:</strong> In my game, I have a menu implemented for the LCD, consisting of: "Start Game," where the actual game begins; "Settings," which is divided into LCD brightness and matrix brightness, where I can adjust the matrix and LCD contrast by moving the joystick up and down; and "About," where I display the game name, my name, and my GitHub. When the game starts, I generate a static map where the side walls cannot be destroyed, and my player has 3 lives. The player can place a bomb by pressing the joystick, and the bomb will explode in the up, down, left, or right directions.I have an LED that blinks from the moment a bomb is placed until it explodes.The player can place a new bomb only after the previously placed bomb has exploded. If the player loses all lives during the game, they "die" and an animation and corresponding message will be displayed on the matrix and on the LCD. Similarly, if the player destroys all destructible walls, there will be a winning animation and a message. Pressing the joystick will return to the main menu.
  </p>
     <p><strong>Menu structure:</strong>
   <ul>
