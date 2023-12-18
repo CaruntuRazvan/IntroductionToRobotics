@@ -190,7 +190,8 @@ If the pause button is pressed, the timer halts, and the lap flag button becomes
       <li>one ceramic capacitor and one electrolytic capacitor</li>
       <li>one LED</li>
       <li>one potentiometer</li>
-      <li>wires and 3 resistors (1 with a resistance of 100 kΩ, 1 with a resistance of 330Ω for the red LED and 1 with a resistance of 220Ω for LCD)</li>
+      <li>one buzzer</li>
+      <li>wires and 4 resistors (1 with a resistance of 100 kΩ, 1 with a resistance of 330Ω for the red LED, 1 with a resistance of 220Ω for LCD and 1 with a resistance of 100Ω for buzzer)</li>
     </ul>
 </p>
 
